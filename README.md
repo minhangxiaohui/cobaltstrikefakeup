@@ -20,7 +20,7 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 
 运行截图如下：
 
-![image-20221014153320338](readme.assets/image-20221014153320338.png)
+![image-20221014153320338](https://github.com/minhangxiaohui/cobaltstrikefakeup/blob/master/readme.assets/image-20221014153320338.png)
 
 上线效果：
 
