@@ -39,7 +39,6 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 整个过程演示如下：
 
 ![image](https://j.gifs.com/BrjxLX.gif)
-![image](https://j.gifs.com/QkBQ0l.gif)
 
 
 
