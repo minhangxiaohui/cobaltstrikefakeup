@@ -39,7 +39,7 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 
 <video src="./cobaltstrike fakeup.mp4"></video>
 
-![image](https://gifs.com/gif/BrjxLX)  
+<iframe src='//gifs.com/embed/cobaltstrikefakeup-one-BrjxLX' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 
 
