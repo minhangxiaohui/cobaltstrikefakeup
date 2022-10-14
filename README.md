@@ -35,11 +35,8 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 将该路径下的**crypto**文件夹名修改**Crypto**即可：
 
 ![image-20221014153747937](readme.assets/image-20221014153747937.png)
+![image](https://j.gifs.com/BrjxLX.gif)
 
-
-<video src="./cobaltstrike fakeup.mp4"></video>
-
-<iframe src='//gifs.com/embed/cobaltstrikefakeup-one-BrjxLX' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 
 
