@@ -37,6 +37,9 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 ![image-20221014153747937](readme.assets/image-20221014153747937.png)
 
 
+<video src="./cobaltstrike fakeup.mp4"></video>
+
+
 
 
 
