@@ -35,8 +35,11 @@ python  cobaltstrikefakeup.py  -T 10(上线机器数) -U http://192.168.129.132/
 将该路径下的**crypto**文件夹名修改**Crypto**即可：
 
 ![image-20221014153747937](readme.assets/image-20221014153747937.png)
-![image](https://j.gifs.com/BrjxLX.gif)
 
+整个过程演示如下：
+
+![image](https://j.gifs.com/BrjxLX.gif)
+![image](https://j.gifs.com/QkBQ0l.gif)
 
 
 
